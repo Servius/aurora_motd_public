@@ -1,0 +1,1469 @@
+﻿These rules are subject to change at any time. It is your responsibility to keep up to date with the rules. Last update: January 9th, 2017.
+
+
+These rules are considered your warning. Breaking the rules will result in your punishment. Ignorance is not an excuse.
+If a staff member is breaking rules, gather any evidence you can, make a staff report thread on the forums.
+
+
+ General Rules.png 
+
+(Section A)
+
+
+
+
+1. The staff have the final say in all situations. Do not argue with them. If you feel wronged in any way by a staff member, file a staff report on the forums.
+2. Use !report to receive assistance from a staff member or make a player report on the forums. Do not submit false or spam reports or you will be warned. Do not use @ chat to report players.
+3. No one is to be harassed in our community under any circumstances.
+4. Do not set your name and/or job to anything obscene, vulgar, sexually explicit or crude. You also may not impersonate ANY user.
+5. Do not use cheats or third party programs.
+6. You may not use an alternate account to avoid a ban. This will will result in your ban being extended.
+7. Do not troll, flame, or otherwise be disruptive in/out of character. (Certain exceptions made for hobo classes.)
+8. Do not disrespect other players out of character or in-character using out of character information.
+9. Do not spam voice communications. (Certain exceptions made for hobo classes.)
+10. Do not spam the camera swep.
+11. Do not encourage other players to break rules.
+12. Do not abuse loopholes/exploits in the rules/game content.
+13. Do not break rules to enforce rules. You will be held accountable for your actions. Use !report in game, or make a player report on the forums.
+14. You may not scam.
+15. Do not leave the server to avoid being stolen from, avoid punishment, or return the property that has already been stolen from you. Do not disconnect from the server during an ongoing raid on your base until the raid is finished.
+16. All default laws are always in effect, even without a Mayor. The Mayor cannot change the default laws, or make laws that go against the default laws.
+17. Do not break rule specifics.
+18. Do not demote players for any reasons that are not RP, this includes demoting people for breaking rule specifics such as RDM.
+19. Do not raid bait or bait out any other PVP confrontations. This will be regarded as Fail RP and if any deaths occur because of this scenario you will receive another warning for random deathmatch, the severity will be affected by the amount of deaths, no matter the situation.
+20. You may not kill players for disrespect.
+21. If you are resisting arrest you may be killed at the discretion of the CP. For more information, see the "General Government Rules" section.
+22. The roads may NEVER be built on by any class excluding CP with checkpoints and minor buildings from hobo classes.
+23. Propclimb is prohibited from all classes excluding hobo classes. Hobo classes may only propclimb if it compliments a structure they are building.
+24. You may not make drugs or use counterfeiting machines in public. You must make/use them in a base, and hide them from general view.
+25. You may never base or have valuables in the secret rooms
+26. Only medics may base inside of the hospital.
+27. You may not sell in-game money for real life currency or Steam items.
+ Advert and Chat.png 
+
+( Section B )
+
+
+1. Do not spam any form of chat. This includes "@" chat.
+2. Only use adverts to advertise (Selling of goods and services).
+3. Do not use OOC chat for anything that should be adverted, do not use advert chat for anything that should be in OOC chat.
+4. Do not swear excessively or use any type of offensive slurs.
+5. Do not use crude or sexually explicit language.
+6. Advertising illegal activities EXCLUDING MUGGINGS AND KIDNAPPINGS gives the CP and SWAT permission to issue a warrant for your arrest.
+7. You must use /advert to indicated the start of a mugging, or a kidnapping. YOU CANNOT BE WANTED FOR MAKING THESE ADVERTS.  Ex: "/advert MUGGING! Drop 5k now or you will pay in blood!"   "/advert KIDNAPPING! You are bound and gagged! Come with me!"
+8. You must notify the staff of your raid attempt by using "@" chat. If you are raiding a government building, you must specify which building you are raiding.     Ex: "@ RAID STARTED!" "@ BANK RAID STARTED!" "@ PD RAID STARTED!" "@ COUNTER RAID STARTED!"
+9. If there is no staff online at the moment when you are about to raid you must call it in advert. Ex: "/ad Raid Started!" "/ad Bank Raid Started!" "/ad PD Raid Started!" "/ad Counter Raid Started!"                                     
+10. You must use "@" chat to end your raid.
+11. You must advertise the usage of any lethal grenades. Ex: "/advert GRENADE OUT!"
+12. You may advert “Not a threat” if you are in harm's way in a raid. YOU MAY ONLY CALL THIS IN YOUR OWN BASE. When advertising “Not a threat” you must not interfere with the raid, you must immediately attempt to safely leave the raid area. If you fail to leave immediately you will be considered as a regular member of the raid.
+
+
+ Prop Related rules.png 
+ 
+(Section C)
+
+
+I. Building Rules
+1. Do not trap other players in bases, or prop builds.
+2. Do not use props to hold entities out of reach of players.
+3. Do not build any obscene or inappropriate structures.
+4. Do not build in public unless your job's rules allow it.
+5. Do not build anything that is not accessible by a natural path (no player-made catwalks on walls, etc).
+6. You may not build any false entrances into your base.
+7. Do not block off entire areas with props. If your job allows you to build in public, please do not obstruct pathways, roads, world doors, parking lots or any frequently accessed areas.
+8. Raiders must have enough space for two players to move and raise their weapons.
+9. Your base should not force raiders into any awkward situations to be able to break in. That means no crouch tunnels, or props for players to jump over.
+10. Prop stacking props inside each other in a way that makes them not able to move is not allowed.
+11. You must never prop block block any of your bases entrances. If you use props on an entrance, they MUST be a fading door. They must also be spaced far enough away from the world door that two players will be able to fit inside the gap. This allows the players to attack both doors before one closes on them.
+12. You may put up a building sign to avoid being raided from while building. However you must not have any valuables in your base at that time or you will be warned/banned by a staff member.
+13. You may put up a sign that says RP Base, having an RP Base means that you do not have valuables and your base is only intended to be made for RP ONLY. Raiders will not raid your base if it has this sign.
+14. You are allowed kill slots in your base. Kill slot gaps must have at least a size of  2x2 cube stacked vertically and to open the slot you must use a toggled button.
+15. You may never build a meat tunnel. A meat tunnel is defined as a long and narrow tunnel in which a player cannot turn 360 degrees without lowering his weapon, and, a tunnel in which only one person can fit at a time.
+16. Any tunnel that you have in your base may only have two direct turns in order to reach the exit. You may not build a maze.
+17. You may not have disorientating/flashing/water properties on any part of your base. (Aside from Entity holders)
+18. You may only use the wireframe material for windows or fading doors.
+
+
+II.Second Floor Rules
+1. You may build a second floor inside of your base only. However the props used on the second floor must be opaque.
+2. You may not use fading doors on your prop built second level and/or the ramp/stairs to the second level. The second level must be open and accessible.
+3. You may hold valuables on your prop built second level.
+4. You are not allowed to shoot from your prop built second level.
+5. You may build props and have fading doors on WORLD second floors. You may not use staircases and overhangs to give you an advantage over raiders. This includes shooting at raiders from a ledge, upper staircase, or overhang.
+
+
+III. Keypad & Button Rules
+1. All keypads must have a hold length of at least 5 seconds.
+2. Your buttons and keypads must represent which fading doored prop it is connected to without any confusion. Do not replicate buttons to hide the one that functions.
+3. Do not abuse fading doors during a raid with a button or by using the key assigned to the fading door.
+4. Your buttons for kill slots MUST be on toggle mode.
+5. Your buttons and keypads must be fully accessible.
+
+
+IV. Fading Door Rules
+1. You are allowed a maximum of 5 fading doors throughout your entire base.
+2. You are allowed a maximum of 2 fading doors per room/world door in your base, up to the maximum 5 per base.
+3. You are allowed a maximum of 2 fading doors per prop entrance.
+4. Fading Door Windows do not count towards the these counts.
+5. Do not place two fading doors back to back; they must be at least two player's width apart. This means two players must be able to turn 360 degrees without their guns lowering.
+6. Do not use fading doors to trap players.
+7. Do not place a fading door right on either side of a “real world door”. There must be at least a two person size box around the door.
+8. Elevator entrances are considered "real world doors". There must be at least a two person size box around the door.
+9. Fading doors MUST be a different color/material then the remainder of your props, and must be clearly visible. 
+
+
+V. "World Door" Rules
+1. The owner of the main/front doors of an establishment owns the building. No matter who else owns the other doors, this person owns the base.
+2. You must sell the doors to a building if you are not using it.
+3. Do not repeatedly open and close a door to block a player from accessing it.
+4. You may only own doors to one building at a time.
+5. Do not spam knocking sounds with your keys.
+6. When claiming an entire area as a mob boss, or group leader may own all world doors in the claimed area.
+7. You may not sell ownership of a building to another player.
+
+
+VI. Camera Rules
+1. Do not use cameras to see into other players' bases.
+2. You may only block cameras with entities and world props.
+3. Cameras must be realistically and visibly positioned. They should be visible from the location that it looks upon.
+4. Cameras must be positioned on world walls attached to your base/property, and positioned realistically.
+5. Placing cameras and monitors in such a way that allows you to see the raiders and fire on the raiders, while they cannot see you will be considered one way, and is not allowed. Ex: Using cameras to show where raiders are behind textured props, and then firing in on them when they cannot see you.
+6. Disabling and shooting cameras/scanners without a valid RP reason is not allowed. 
+7. Using cameras to give yourself an unfair advantage during a raid, such as positioning it where the raider can’t see it, is forbidden.
+8. Cameras may not be placed inside of a prop to prohibit the raiders from disabling them.
+
+
+VII. Text Screen and Loitering Rules
+1. Do not place text screens on or in other people's bases without permission.
+2. Remove any text screens you are no longer using.
+3. Kill On Sight (KOS) signs are only allowed within the confines of your base.
+4. Your KOS sign may not have ridiculous restrictions or limitations.
+5. Your KOS may only apply to players that enter the confines of your world base.
+6. You are allowed a Loitering Sign. The sign must say “Loitering for 30+ seconds is KOS” and/or along those lines.
+7. If you do not wish to use a loitering sign you may also warn the loitering players to leave and give them a 10 second chance before they are KOS
+
+
+VIII. Prop Properties (Visibility, Collision, Materialization, etc)
+1. Do not use or create invisible props.
+2. You may not use no-collided props unless used for an AFK Box.
+3. AFK Boxes are small player sized no collided props used to prevent pickpocketing in bases while AFK. You may never use them as a defense during a raid.
+4. Do not use or create one way props (they can’t see you, but you can seem them.)
+5. Fading doors need to be a different material than the props around it. This includes any fading windows.
+6. You may not use  Prop Properties to prop minge. (Using any of the properties such as “Super Bouncy” and “Metal Bouncy”, etc to unfreeze and create floating/flying props.)
+7. You may not use Solid Dark colors on props.
+8. You may not have disorientating/flashing/water properties on any part of your base. (Aside from Entity holders) You may only use the wireframe material for windows.
+9. You may only use the wireframe material for windows or fading doors.
+
+
+
+
+
+
+
+
+ Server Activity.png 
+ 
+(Section D)
+
+
+I. Grouping & Basing Rules
+1. To group/base all players must be in a party together. You may have multiple parties per base.
+2. Members of the Government may only group or base with other members of the Government.
+3. Members of the Government may only base at government buildings. They may not own their own property.
+4. Criminals may only base with other criminal classes. Guards and medics if hired are excluded from this rule.
+5. You may defend members of your gang/party from attacks and pickpockets.
+6. You may kill trespassers as long if they know they are not welcome. Either build a KOS sign or tell them to leave.
+7. You may kill players for loitering, if you verbally tell them you must wait 10 seconds. If you have a sign you must wait at least 30 seconds before killing them.
+8. You may not base on top of a naturally inaccessible area
+9. Members of the Government may not work with criminal classes. However, they may hire (if corrupt) bodyguards and hitmen to assist them with their work.
+10. You may not connect multiple properties together unless the owner of the other building(s) gives consent, and the building looks at least semi-realistic. (Mob Bosses excluded.)
+11. The buildings connected must be next to each other. You may not connect buildings a street apart. You may not connect them by building on the street (Mob Bosses included)
+12. Basing/having valuables in a secret room is not allowed and is a bannable offense.
+13. Mob Bosses may own 2 different buildings in their claimed area. However they must follow fading door limits. As a Mob Boss  you may not block off streets, roads, or parking lots.
+14. Gangs may not base with opposing gangs. (Syndicate may not base with Mafia).
+15. Illegal items in your base must be hidden and may not be visible from right outside of a transparent window. If visible from outside of a transparent window this will be considered raid baiting and you will be warned.
+
+
+II. Raiding Rules
+1. If you die in a raid you can not return to the raid.
+2. If you are in a raid, you may not leave the area of the building you are raiding. If you do, your raid is considered a failure.
+3. If you are defending your base in a raid you may not defend your base from outside of the raid area.
+4. While raiding, you may not kill anyone outside of the base unless they are attacking you and/or if you know that they are the owner of the building.
+5. While raiding, you may not kill anyone who is not a threat to you, but you may kill them if they refuse to leave.
+6. While raiding, you cannot carry around props or build in their base.
+7. Before raiding, you must notify staff in @ chat that you are raiding. You are not obligated to mention where you are raiding unless it is a government building.
+8. You may not raid bait. This includes using chat as well as placing provoking text screens on your base encouraging players to raid you.
+9. You may not raid someone with a building sign and/or RP Base only sign, unless the sign has been made void.
+10. You may not build inside your base while you are being raided.
+11. You do not have to be in the same party to raid a base.
+12. Your raid must only last 10 minutes.
+13. You must wait 15 minutes before raiding the same base.
+14. You must wait 3 minutes before raiding any other base.
+15. You may Counter Raid, While counter raiding you must actively participate in the raid, meaning you must fight into the base and continue fighting. You may not counter raid to just kill the enemy raiders, you must finish the raid and actively continue fighting.
+16. Counter raids follow the same rules as regular raids do.
+17. You may not Counter Raid Government buildings.
+18. Government classes are the only class exempt from the 3 minute timer, however the 15 minute timer stays in place.
+19. Government classes may break NLR only during raids on Government buildings.
+20. You cannot call "Raid Over" inside a building, you must make an attempt to escape.
+21. When you call "Raid Start," you must call it from outside the base (This includes the Bank and the PD)
+22. You cannot wait inside the Armory for 3 people to become CP classes.
+23. You may not use lethal grenades while defending.
+
+
+III. Mugging Rules
+1. When mugging, you must advert the mug.
+2. You may not mug Hobos, CP, SWAT, or the Mayor's Guard.
+3. You may not mug in public areas that are frequented by other players. You must mug in a secluded areas like alleyways. If there are people around the area you may not mug, if you do it will be considered Fail RP.
+4. You are allowed to mug players for a maximum of $5000
+5. You may only mug players for money. You may not tell them to drop items.
+6. You must be clear on who you are mugging, and give the player time to realize they are being mugged.
+7. When mugging, you must make your demands clear, either with /advert, or /yell.
+8. When mugging, you must give players 15 seconds to comply with your terms. You may be killed if you fail to pay within this time frame.
+9. You may not disallow players to look around while mugging them.
+10. You may only mug one person at a time.
+11. If you mug with a group, only one player may demand payment.
+12. You may not kill a player if they pay the amount you are demanding.
+13. You, or your group, may only mug the same person once every 10 minutes.
+14. You may resist a mugging if you are currently holding a weapon. If you are not, you may only resist using a pistol.
+15. You may not mug a mayor in grace.
+IV. Kidnapping Rules
+1. You are allowed to (illegally) kidnap a player, forcing them to comply with your rules and follow you to your base.
+2. You may only kidnap one player at a time. (No matter how many people you have) This does not mean that you can't have multiple people kidnapped in your base, but that you can only bring one person back at a time!
+3. You may hold a player hostage and charge ransom for their release, or (illegally) auction them off to other players. You may be wanted for using /advert to auction a player.You may also execute the hostage if no one is willing to buy the kidnapped player after 10 minutes.
+4. You may not force a player to RDM or FailRP.
+5. You may resist a kidnapping.
+6. You must advert kidnap, and have a gun out.
+7. You may only kidnap for a maximum of fifteen minutes.
+8. You may not kidnap an afk player.
+9. You have to wait 45 minutes before re-kidnapping a player you previously kidnapped. Even if you die, you still must wait 45 minutes.
+10. If  you have found a gun you may kill your kidnapper(s) and call for help. (You have broken your bonds)
+11. You may run away if you have 100 health.
+12. You may kill your attacks if you already have a gun out, or a pistol if you don’t have one out.
+13. You may not pickpocket you victim.
+14. You may kill a kidnapped player if they don't follow your orders. [Go to FeaRP Rules]
+15. After kidnapping someone you or your party may not kill them for any KOS Signs, you may however kill them if they prompt you by disrespecting in character, ignore your non-ridiculous orders, attempt to escape, or 10 minutes after making an attempt to sell your victim no one wants to purchase them.
+16. You may not kidnap with witnesses present, but you may kidnap in public if the area is secluded.
+17. You may not kidnap a mayor in grace.
+
+
+
+
+V. Pickpocketing Rules
+1. You may NOT pickpocket hobos.
+2. You may not pickpocket AFK players.
+3. You may not pickpocket at spawn.
+4. You or your group may not attack or kill a player you or your group recently attempted to pickpocket, even if you are attacked in retaliation. Party members are not allowed to defend you from these retaliation attacks. This is an act of stealth, if you are caught, your only option is to run.
+5. If you successfully pickpocket someone you may not later set a hit on the victim of thievery.  
+
+
+VI. Placing Hits Rules
+1. You must have a real RP reason to place a hit on someone. If you are caught placing hits on people for things they did not do the person who placed the hit will be punished.                             Ex: "I want this player dead, he stole from me!" "I dont like the mayor and his frequent lockdowns!"                                                                                                "This player disrespected my mother on the streets!" 
+2. You must wait 5 minutes between accepting hits and 20 minutes between hits on the same player.
+3. You may not place hits on players who killed you in a past life.
+4. You may not trade hits with other hitmen. This includes one-way trades where only one hitman receives a trade from another. All Hitmen and similar jobs are included in this rule.
+5. You may not ask other players to place a hit on an individual or any group of people.
+
+
+VII. "Wanted" Rules
+1. You must have a valid reason to issue or accept a search warrant or a warrant for a player's arrest.
+2. When a player's "wanted" expires, you may not "re-want" them. However, if the player is seen doing an illegal activity again, you may re-want them.
+3. You may not kill a player who has broken the law unless they are an immediate threat to others' lives.
+4. If you are are wanted, you may not kill government jobs on sight, unless they are an immediate threat to you. (Trying to arrest/kill you.)
+5. If you or a member of your group are wanted, you may kill players who try to arrest you or that group mate (having handcuffs out does not count. They must be actively trying to arrest you or your group mate).
+6. If you are resisting arrest you may be killed at the discretion of the CP.
+
+
+VIII. PD & Bank Vault Rules
+1. Do not leave the doors to the PD or the jail cells open.
+2. Only Government jobs may build in the PD.
+3. When leading a PD/Bank raid, you must specify which you are raiding in @ chat.
+4. You cannot raid the PD unless there are 3 CP/SWAT.
+5. Cops may return to a Bank/PD Raid and disregard NLR.
+6. No one can build within the bank vault and/or armory vault. The bank vault must be accessible through cracking 2 doors and the safe room.
+7. By default, the lobby of the PD is public. Going beyond the stairs, and through any doors inside the lobby of the PD is AOS by default. The mayor may make a law that makes the PD 100% private, in which case the lobby becomes AOS.
+
+
+IX. War Rules
+1. Gang Leaders may declare war on the opposing gang or the government. If the opposing team's leader accepts, or if the mayor accepts, war is initiated.
+2. During a war, members of each team may kill the other on sight.
+3. No spawn camping.
+4. The war will last 10 minutes, or until one of the leaders has died. At that point, the war is over and you must wait 30 minutes before initiating another war.
+5. You may raid buildings to get to the leaders but you must still follow raiding rules.
+6. Only Gang Members/Leaders and the Government may participate in wars.
+
+
+
+
+X. Gambling/Game Rules
+1. If you have started a game involving guns, or gun attachments, you may sell your tickets for no less than $500 and no more than $100000.
+2. Scamming a player will result in a ban.
+3. Casino is public.
+
+
+
+
+ Rules Specs.png 
+ 
+(Section E)
+
+
+Breaking any of these rules classifies as breaking its parent rule in Section A.
+
+
+I. Death Match
+1. You must have a valid RP reason for attacking or killing on someone.
+2. You may defend yourself or your group if you or your group are being attacked or stolen from.
+3. You or your group may kill players who refuse to leave you or your group alone after being warned three times to go away. You must give the player at least 15 seconds to comply. These warnings must use /advert so there is a record of the warnings.
+4. You or your group may not kill players even if they threaten you or your group's lives. You and your group must wait before they attack you or your group before defending your group or yourself. This does not apply to a criminal raid, or if a firearm is pulled out during a police chase.
+5. You must give the Mayor a 10 minute grace period before killing them after they are elected.
+6. You may only kill the Mayor as a Criminal job.
+7. You must have a valid RP reason to kill or place a hit on the Mayor.
+8. You may not kill players for disrespect.
+9. If you are resisting arrest you may be killed at the discretion of CP.
+10. Holding a weapon out does not count as a valid reason to KOS a player, unless the player is attacking you.
+11. You must give an advert warning to a player that has smoked/flashed you. If the player continues to spam the grenades, you may either report them or, if there are currently not staff on, kill them.
+12. Climb SWEPing a player is considered assault.
+13. As a Taxi Drive, you must make an attempt to stop for a pedestrian crossing the street.
+
+
+II. New Life Rule
+1. When you die, you instantly forget every player-related event that happened before your death.
+2. You may not use information from your past life in your new life, excluding where your base is and keypad combinations.
+3. You may not return to your area of death for 3 minutes.
+4. If you are killed during a raid, you may not return to the raid till NLR Timer is up and the raid is over.
+5. CP, Swat, FBI, Mayor’s Bodyguard may break NLR during PD and Bank Raids ONLY.
+
+
+III. Metagaming
+1. You are not permitted to use information from OOC (out of character) while roleplaying. This includes OOC chat and any other means of receiving information other than through role playing. The sounds money printers make are excluded from this rule.
+2. You do not know a player's job based on their character model, excluding Hobos and Government jobs.
+3. You do not know a Hitman has accepted hit on a player, based upon the text above their head.
+4. As a Government job, you do not understand the slang for selling illegal entities or activities. Ex: You will not understand that "a pizza" is a hit.
+5. You may not use the information from a warrant that pops up on your screen as an indication of corruption. Only the mayor can use this information as indication of corruption.
+6. It is metagaming to use the kill log in the top right of your screen to know who killed someone. 
+
+
+IV. Demotions
+1. Do not demote people randomly or for false reasons.
+2. You are allowed to demote for two reasons: for rule breaking in the absence of staff and for roleplay reasons (e.g., a corrupt CP).
+3. Do not demote other players for breaking rules while a staff member is online. Talk to staff first.
+4. Do not immediately demote someone for breaking rules. Consider the circumstances beforehand and make 100% sure they are breaking rules.
+5. Do not demote while staff are online except for a valid RP reason.
+
+
+V. Prop Minging
+1. Do not block or trap players with props or entities.
+2. Do not grab/throw props or entities and sling them around randomly.
+3. Do not throw players around on props unless the RP situation calls for it.
+4. Do not fly players around.
+5. Do not hoverboard players.
+6. Using precision alignment tool to create teleporters or to gain access to areas that you wouldn't normally be able to access is strictly prohibited.
+
+
+VI. Self-Supply
+1. Do not change your job solely to supply you or your group with something from that job.
+2. Do not drop any items exclusive to a job.
+3. You may only Self Supply when there are no merchants online.
+
+
+VII. Fail RP
+1. You are not allowed to engage in role-play that the staff deems inappropriate to the roleplay the server is hosting.
+2. You may not roleplay as or engage in a roleplay of something obscene or otherwise inappropriate.
+3. Do not randomly or excessively assault or insult other players.
+4. You may not perform tasks your job was not designed to do.
+5. You must perform your job's duties.
+6. You may not betray your group. Government jobs are excluded from this rule when regarding Corruption.
+7. Do not tell or ask other players to raid your own base.
+8. When being attacked, mugged or kidnapped, you may not pursue your attacker. CP/SWAT/Mayor's Bodyguard are excluded from this rule.
+9. You may not use or carry any weapons that are otherwise inaccessible by your job (medkits as a citizen, etc).
+10. You must have a valid RP reason to use your weapons. Do not shoot randomly or smash windows, cameras, or scanners without a valid RP reason. This includes your fists.
+11. You may not make drugs or use counterfeiting machines in public.
+12. You may not drive on the sidewalk.
+
+
+VIII. Fear RP
+1. When your character's life is threatened, your character should act scared.
+2. If you are being held at gunpoint, you may not pull out a weapon larger than a handgun.
+3. You may attempt to run away if you are at 100+ health.
+4. If you already have a large weapon out, you are allowed to use it in self-defense.
+
+
+                                                                            Laws.png 
+(Section F)
+
+
+The following laws are always in place, and may not be changed by the mayor.
+1. Murder is illegal.
+2. Shooting is illegal.
+3. Assault is illegal.
+4. Stealing is illegal.
+5. Counterfeiting machines are illegal.
+6. Drugs are illegal.
+7. Weapons sold by Black Market Dealers are illegal.
+8. Throwing “bug bait” is illegal.
+9. CP Disrespect is illegal.
+10. Life threats are illegal.
+11. Being beyond the lobby of the PD, including the second floor, and jail cells is AOS.
+
+
+
+
+ Job spec.png 
+ 
+(Section G)
+
+
+Breaking Job Specific Rules counts as FailRP.
+
+
+
+
+ Civilian.png 
+ 
+
+
+I. Hobo Rules
+1. You may not participate in raids.
+2. You may not mug.
+3. You may steal.
+4. You may sell stolen items.
+5. You may not carjack/accept stolen vehicles.
+6. You may build small shacks to live in. (You may only have minor prop climb. It's up to the discretion staff member what "Minor" means.)
+7. You may build gambling contraptions and have them accessible to the public.
+8. You may not build your shack in front of someone's entrance in a way that it blocks the way in.
+9. If the owner of a base asks you to remove your props from the exterior of his/her base you must comply. [Loopholes will get you banned]
+10. You may not use a weapon larger than a handgun.
+11. You may not own money printers.
+12. Do not spam the bugbait SWEP at all.
+13. You are allowed to play music through your mic. However, if an staff member tells you to stop, you must stop.
+14. You may be killed if you mic spam after a player has warned you to stop in advert chat three times to stop spamming. They must give you at least fifteen seconds to comply. 
+15. You may not place hits.
+16. You may not own any real world and/or fading doors.
+17.  You may build a "Suicide Box". However, it must be clearly marked above it so it can be read from all angles.
+
+
+II. Citizen Rules
+1. You may not participate in raids.
+2. You may not mug.
+3. You may not steal.
+4. You may not sell/accept stolen items.
+5. You may not carjack/accept stolen vehicles.
+6. You may place hits.
+7. You may set a custom job, as long as it is appropriate and is allowed by the rules. Some of these custom jobs will be listed as a subsection under the citizen rules if needed.
+8. You may not set your custom job to any job that already exists, or any variation thereof.
+9. You are allowed to play music through your mic. In public, if someone tells you to stop you must comply. However, if you are in your own base and someone tells you to stop, unlike the hobo, you have the right to tell them to leave the base and continuing playing the music.
+10. You may not build in public.
+
+
+  Citizen Sub Section
+Spoiler
+Hotel Manager
+1. You may not participate in raids.
+2. You may not mug.
+3. You may not steal.
+4. You may not sell/accept stolen items.
+5. You may not carjack/accept stolen vehicles.
+6. You may place hits.
+7. You may own and sell rooms to other players to act as their own base. You may evict these members for an RP reason and may call upon CP to enforce this eviction.
+
+
+Fight Club Manager
+1. You may not participate in raids.
+2. You may not mug.
+3. You may not steal.
+4. You may not sell/accept stolen items.
+5. You may place hits.
+6. You may not carjack/accept stolen vehicles.
+7. Players may die in this fight club. You may have medics stand by to heal those that are hurt. If you so choose you may allow people to use weapons in these fights.
+8. You may not propose signs that encourage players to come back and fight. (Breaking NLR)
+
+
+  
+
+
+
+
+
+
+
+
+
+III. Musician Rules
+1. You may not participate in raids.
+2. You may not mug.
+3. You may not steal.
+4. You may not sell/accept stolen items.
+5. You may not carjack/accept stolen vehicles.
+6. You may place hits.
+7. You may sell access to your piano.
+8. Do not place your piano in the air or in otherwise unrealistic locations.
+9. If a player refuses to get off your piano you may request that the player is kicked.
+10. You may play anywhere excluding bases and public streets.
+11. You may not block a natural pathway.
+12. You may use a weapon larger than a pistol.
+
+
+IV. Guard Rules
+1. You may only assist in raids that your employer is participating in. If your employer dies, you may not continue raiding.
+2. You may only assist your employer with mugging. If your employer dies, you cannot continue with the mugging.
+3. You may only assist your employer with stealing. If your employer dies, you cannot continue to steal.
+4. You may not sell stolen items. You can accept stolen items for your employer if his job allows him to accept stolen items.
+5. You may only assist in carjacks that your employer is participating in. If your employer dies, you may not continue the carjack.
+6. You may place hits.
+7. You may not betray your employer.
+8. You may only base with your boss, not alone.
+9. You must to do "/job [Boss's Name] Guard" if you have been hired to protect someone's base, shop, or possessions.
+
+
+
+
+V. Medic Rules
+1. You may NOT directly assist in raids. Meaning you may only stay back and heal. You will be considered a member of the raiding party, and can be arrested or killed.
+2. You may not mug.
+3. You may not betray your employer.
+4. You may not steal.
+5. You may not sell/accept stolen items.
+6. You may not carjack/accept stolen vehicles.
+7. You may place hits.
+8. You may not deny players your services, but you may charge players for them.
+9. Once your employer dies in the raid, you must end the assist and leave the raid.
+10. You may NOT use any weapon larger than a pistol.
+11. You may build small "express" shops in public. This shop must be on the sidewalk and may not restrict access to roads, doors, or atms.
+
+
+VI. Radio Broadcaster Rules
+1. You may not participate in raids.
+2. You may not mug.
+3. You may not steal.
+4. You may not sell/accept stolen items.
+5. You may place hits.
+6. You may not carjack/accept stolen vehicles.
+7. You may only group or base with other civilian jobs.
+8. You may NOT use any weapon larger than a pistol.
+VII. Private Investigator
+1. You must be hired. You can be hired by corrupt police, as well as criminals. 
+2. You may only assist in raids that your employer is participating in. If your employer dies, you may not continue raiding.
+3. You may not mug.
+4. You may only assist your employer with stealing. If your employer dies, you cannot continue to steal.
+5. You may not sell stolen items. 
+6. You may only assist in carjacks that your employer is participating in. If your employer dies, you may not continue the carjack.
+7. You may place hits.
+8. You can not kidnap.
+VIII. Taxi Driver
+1. You may not participate in raids.
+2. You may not mug.
+3. You may not steal.
+4. You may not sell/accept stolen items.
+5. You may not carjack/accept stolen vehicles.
+6. You may place hits.
+7. You may not kidnap.
+8. You must pick up those who request a ride.
+9. You may not deny your services to individual players, but you can deny your services for a valid RP reason.
+10. You may NOT use any weapon larger than a pistol.
+11. You may not own any illegals, but you may base with other civilian classes.
+12. You may not refuse to pick up a passenger with threat of demotion.
+
+
+IX. Bartender
+
+
+1. You may not participate in raids.
+2. You may not mug.
+3. You may not steal.
+4. You may not sell/accept stolen items.
+5. You may not carjack/accept stolen vehicles.
+6. You may place hits.
+7. You may not kidnap other players.
+8. You may not use a weapon larger than a pistol. 
+9. You may only sell items in your store or automatic shop.
+10. You may build small "express" shops in public. This shop must be on the sidewalk and may not restrict access to roads, or doors.
+11. You may not sell your goods lower than the base price specified in the F4 menu.
+12. You may not base with criminal classes.
+13. You may not scam.
+
+
+ Government.png 
+ 
+
+
+Spoiler
+Government "Pure" or "Corrupt"
+- By default, meaning without a mayor/without a declaration, the government is unaligned and it is up to the government players to choose what they are individually.
+- When the mayor declares the government either "Pure" or "Corrupt" the government follows a certain play style dictated by the definition of either "Pure" or "Corrupt".
+- When there is no mayor, players can play as either pure or corrupt. When there is a mayor, all Government classes will reflect the mayors decision. 
+
+
+Pure
+*Pure: The government is pure by declaration of the mayor.*
+- None of the government workers (CP or CC) may deviate from this declaration.
+- Pure Benefits
+- Weapon checks are automatically allowed in all government facilities
+- May have only five checkpoints
+Corrupt
+*Corrupt: The government is corrupt by declaration of the mayor.*
+*When the government is corrupt the government may*
+- Make the PD private
+- Set up checkpoints with a max of 2.
+- Have very strict laws in place
+- Random lockdowns are also permitted, with a max of one "corrupt" lock down every 15 minutes. Additional lock downs may still be called during emergency situations like PD raids.
+
+
+*Corruption Rules*
+- If you choose to be corrupt, you must change your job to state you are corrupt. (e.g., /job Corrupt CP)
+- Corrupt players may be demoted if caught being corrupt. (Taking bribes, letting crimes slide, etc.)
+- Corrupt players are not allowed to ever buy illegal items for themselves, with the exception of BMD weapons. They may confiscate other players' illegal items and store/use them for themselves.
+- Corrupt players may charge a fee to return stolen or confiscated items.
+- Corrupt players may choose to ignore crimes and can choose to charge a fee to do so.
+- Corrupt players still may not assist criminals directly.
+- Corrupt players may not kill or arrest "pure" players unless the corrupt player's life or freedom is threatened.
+- Corrupt players may purchase weapons sold by the Black Market Dealer.
+
+
+
+
+  
+
+  
+I. General Government Job Rules
+1. You may participate in Police Raids in order to arrest criminals or seize illegal entities.
+2. You may not mug.
+3. You may build only publicly, in front of tunnels, to create checkpoint. If there is a Mayor, the checkpoint must be sanctioned by him.
+4. You are allowed to want people who run through a checkpoint
+5. You may not steal, but you can confiscate illegal items, if corrupt.
+6. You may accept stolen items to return them to the rightful owner.
+7. You may accept stolen vehicles to return them to their rightful owner.
+8. You may place hits if you’re corrupt.
+9. Mayor/CP Chief is the only person who can accept bail regardless of playstyle.
+10. You may ignore any laws that forbid weapons of any kind set forth by the mayor. You still cannot purchase BMD items, but you may still use them.
+11. You must have a valid RP reason to weapon check a player.
+12. You must inform players of weapon checks at checkpoints and government facilities with a sign unless pure.
+13. You must have a valid RP reason to arrest a player.
+14. You must always attempt to arrest a non-life threatening criminal before using lethal force. This includes during a police raid.(AOS over KOS)
+15. You may not rush a player with cuffs when they are an immediate threat to you or others. You must kill them.
+16. You may not taze a player who is shooting at you, or another player. You may taze a player that is running away from you, or punching you.
+17. You may not kill Gang Members on sight unless both sides have agreed to War. (See War)
+18. You may arrest players who are in possession of weapons sold by the Black Market Dealer
+19. You may not enter a player's base without written consent or search warrant, unless you can see the illegal goods before entering the base or there is probable cause (player committed/is committing illegal acts such as murder)
+20. If the mayor gives you an order you must carry out this order to the best of your ability. If you choose to ignore this order you will be demoted.
+21. CP Officers may set up a police line around bases that are being raided and/or about to be raided only the concrete_barrier001a prop is to be used for this and it may only be placed on streets and/or sidewalks and may only be used as cover. Any other uses will be considered FailRP. Limited to one per raiding officer with a maximum of 4 barriers. You may not stack them on top of each other.
+22. As a corrupt officer, you may preform a corrupt raid once every fifteen minutes. This allows you to search a building that you are unsure about. You must state the reason for your warrant as "Corrupt". You may only perform a corrupt raid if there is a mayor. If the Mayor is not corrupt, submitting a warrant for this reason is a valid RP reason for the mayor to demote you if he so chooses. You may only preform a corrupt raid if you are a corrupt member. You may only preform a corrupt raid once every fifteen minutes, and must wait thirty minutes before corrupt raiding the same base again.
+23. During a police raid, you must always attempt to use your battering ram on the intended fading props. It is, however, acceptable to use your battering ram to make a secondary entrance through props such as a window. This does not give you the right to tear down an entire base, or pointlessly destroy a base. Abuse of this privilege will be met with warnings and/or bans.
+24. You may request a player submit to a weapon check when outside of a government building, however they are not obligated to comply. You may NOT make them wanted or arrest them if they do not want to be weapon checked. This does not apply in government buildings when the Mayor has weapon checks inside a law.
+25. As a general courtesy, always attempt to provide an arrest reason in advert chat after preforming an arrest. This is NOT mandatory, but can quickly resolve any concerns of RDA.
+26. During a lockdown you MUST  give players a warning of at least 10 seconds before arresting either via Text or Voice chat.
+27. When a player is resisting arrest, you must make advert warnings for them to stop resisting before you may fire on them. You must give at least three warnings, and at least 15 seconds for the player to comply before firing on them.
+
+
+II. Civil Protection & SWAT Rules
+1. Refer to general government rules.
+
+
+III. Civil Protection Chief Rules
+1. Must follow all general government rules.
+2. When no mayor is present the CP Chief is the ONLY class in the government allowed to accept wars.
+3. When no mayor is present the CP Chief is allowed to demote any government official under his power if there is a real RP reason.
+4. The CP Chief does not have power over the FBI or custom classes.
+5. The CP Chief has direct control over the SWAT.
+6. If the mayor's gives you an order you must carry out those orders to the best of your ability. If you choose to ignore these orders you can be demoted if the mayor chooses to have you removed from your position.
+
+
+IV. Mayor Rules
+1. You may not participate in raids nor may you accompany the CP during raids.
+2. You may not mug.
+3. You may not steal.
+4. You may accept stolen items to return them to the rightful owner.
+5. You may accept stolen vehicles to return them to their rightful owner.
+6. You may place hits if you’re corrupt.
+7. You may not use any weapons larger than a pistol.
+8. You must have a valid reason for starting a lockdown.
+9. You must have a valid reason for issuing or accepting a search or arrest warrant.
+10. You may not outlaw the ownership of handguns.
+11. You may not create laws that go against the default laws.
+12. You may not create ridiculous laws. [Jaywalking laws are prohibited]
+13. You may not kill Gang Members on sight unless both sides have agreed to War. (See War Rules)
+14. The Mayor may demote any government official for a good RP reason.
+15. In all cases every government member must listen to you, the mayor, if any member of the government chooses to ignore your orders, as long as they work within the confines of the rules stated in the MOTD and the RP experience of the time, you may have the government offender demoted from his position.
+16. As a mayor, you may not make anyone above the law, even if you are corrupt.
+17. As a mayor, at least one of your law boards must be placed above the PD entrance. It must be clearly visible, and hung so that it can be properly read (not upside down, sideways, or backwards).
+
+
+V. Mayor's Bodyguard Rules
+1. You may not participate in raids. Your job is to defend the Mayor, not conduct routine police work.
+2. You may not mug.
+3. You may not steal, but you can confiscate illegal items.
+4. You may accept stolen items to give to the Mayor.
+5. You may accept stolen vehicles to return them to their rightful owner.
+6. You may place hits if you’re corrupt.
+7. If the mayor is Corrupt, you must also be Corrupt.
+8. You may only group or base with the Mayor, and must remain with him at all times.
+9. You may ignore any laws that forbid weapons of any kind.
+10. You must have a valid RP reason to weapon check a player.
+11. You must have a valid RP reason to arrest a player.
+12. You must have a valid reason for issuing a search or arrest warrant.
+13. You may not rush a player with the handcuffs while they are shooting at you.
+14. You may not kill Gang Members on sight unless both sides have agreed to War. (See War)
+15. If the mayor's gives you an order you must carry out those orders to the best of your ability. If you choose to ignore these orders you can be demoted if the mayor chooses to have you removed from your position.
+
+
+
+
+ Merchant.png 
+ 
+
+
+
+
+I. Gun Dealer
+1. You may not participate in raids.
+2. You may not mug.
+3. You may not steal.
+4. You may not sell/accept stolen items.
+5. You must set up a store where you sell items available to the public.
+6. You may only sell items in your store or automatic shop.
+7. You may not deny your services to individual players, but you can deny your services for a valid RP reason.
+8. You may build small "express" shops in public. This shop must be on the sidewalk and may not restrict access to roads, doors, or atms.
+9. You may not base with criminal classes.
+10. You may not sell your goods lower than the base price specified in the F4 menu.
+11. You may not scam.
+12. You may not carjack/accept stolen vehicles.
+13. You may place hits.
+
+
+II. Professor
+1. You may not participate in raids.
+2. You may not mug.
+3. You may not steal.
+4. You may not sell/accept stolen items.
+5. You may not carjack/accept stolen vehicles.
+6. You may place hits.
+7. You may not kidnap other players.
+8. You may not use a weapon larger than a pistol. 
+9. You may only sell items in your store or automatic shop.
+10. You may build small "express" shops in public. This shop must be on the sidewalk and may not restrict access to roads, doors, or atms.
+11. You may not sell your goods lower than the base price specified in the F4 menu.
+12. You may not base with criminal classes.
+13. You may not scam.
+III. Utility Merchant Rules
+1. You may not participate in raids.
+2. You may not mug.
+3. You may not steal.
+4. You may not sell/accept stolen items.
+5. You may not carjack/accept stolen vehicles.
+6. You may place hits.
+7. You must set up a store where you sell items available to the public.
+8. You may only sell items in your store or automatic shop.
+9. You may not deny your services to individual players, but you can deny your services for a valid RP reason.
+10. You may build small "express" shops in public. This shop must be on the sidewalk and may not restrict access to roads, doors, or atms.
+11. You may not base with criminal classes.
+12. You may not sell your goods lower than the base price specified in the F4 menu.
+13. You may not scam.
+
+
+ Crim.png 
+ 
+
+
+I. Gangster & Gang Leader Rules
+1. You may participate in and lead raids.
+2. You may mug.
+3. You may steal.
+4. You may not sell stolen goods, but you can accept them.
+5. You may carjack as a Gang Leader & Gangster/accept stolen vehicles.
+6. You may place hits.
+7. You may participate in Wars. (See War Rules)
+8. You may not kill the other Gang Members or the CP on sight unless both sides have agreed to War. (See War Rules)
+9. When a mob boss is in power all gangsters under the same gang must base with the mob boss.
+10. During this time gangsters may not raid, mug, or kidnap without their mob boss present. During this time you may still roam the map and steal loose items.
+11. As a Mob Boss you may tell members of your gang certain things to do. These request/demands may not be too silly and or ridiculous. You must be fair with you request/demands. (Changing job name, buying weapons/armor fair) (Telling your members to do silly things such as giving all your money to you/members, kill everyone, target and harass 1 player, etc).
+12. The Mob Boss of any of the gangs is allowed to demote any of his members if they do not abide by his rules or demands. You MUST listen to your mob boss!
+13. Refer to building/gang rules for the specified amount of fading doors/buildings and other limitations.
+
+
+II. Thug Rules
+1. You may participate in and lead raids.
+2. You may mug.
+3. You may kidnap.
+4. You may steal.
+5. You may sell/accept stolen items.
+6. You may carjack/accept stolen vehicles.
+7. You may place hits.
+8. You may base with any criminal class; if a cell has been formed.
+
+
+III. Black Market Dealer Rules
+1. You may participate/assist in raids. (You may not lead them).
+2. You may not mug.
+3. You may steal.
+4. You may sell/accept stolen items.
+5. You may assist in carjacks, You may accept stolen vehicles.
+6. You may place hits.
+7. You may not have a shop. You must complete trades in secret.
+8. You may be arrested for selling items
+9. You may not deny your services to individual players, but you can deny your services for a valid RP reason.
+10. You may not scam.
+
+
+IV. Drug Manufacturer Rules
+1. You may not participate in raids.
+2. You may not mug.
+3. You may not steal.
+4. You may not sell/accept stolen items.
+5. You may assist in carjacks, You may accept stolen vehicles.
+6. You may place hits.
+
+
+V. Hitman Rules
+1. You may only participate in raids if you know your target is inside the base. You may not lead a raid.
+2. You may not mug.
+3. You may not steal.
+4. You may not sell/accept stolen items.
+5. You may not carjack, You may accept stolen vehicles.
+6. You may only kill people you have been paid to kill, except when defending yourself or your group.
+7. You may not accept hits on Hobos.
+8. You may not trade hits with other Hitmen or similar jobs.
+9. You must have a valid reason to accept hits.
+10. You must wait 20 minutes between accepting hits ON THE SAME PERSON. There is no wait time between hits on different people
+11. You may not ask/tell other players to place hits on specific people or groups.
+12. You may not deny your services to individual players, but you may deny your services for a valid RP reason.
+13. It is inexcusable to forget the name and reason of who placed the hit you took out. If you "forget" you will receive a warning for "Random Deathmatch | Fail RP as a Hitman"
+14. Hit-men and hit-men-related classes are only allowed to base with other Hit-men and hit-men-related classes.
+
+
+VI. Thief & Professional Thief Rules
+1. You may participate in and lead raids.
+2. You may mug.
+3. You may steal.
+4. You may sell/accept stolen items.
+5. You may carjack/accept stolen vehicles.
+6. You may place hits.
+
+
+VII. Retired War Veteran
+1. You may participate in and lead raids.
+2. You may mug.
+3. You may steal.
+4. You may sell/accept stolen items.
+5. You may carjack/accept stolen vehicles.
+6. You may place hits.
+
+
+VIII. Hacker
+1. You may participate in and lead raids.
+2. You may mug.
+3. You may steal.
+4. You may sell/accept stolen items.
+5. You may carjack/accept stolen vehicles.
+6. You may place hits.
+
+
+IX. Mercenary
+1. You may participate in raids.
+2. You may not mug.
+3. You may not steal.
+4. You may not kidnap other players.
+5. You may not sell/accept stolen items.
+6. You may not carjack/accept stolen vehicles.
+7. You may only kill people you have been paid to kill, except when defending yourself or your group or raiding. 
+8. You may not accept hits on Hobos.
+9. You may not trade hits with other Hitmen or similar jobs.
+10. You must have a valid  RP reason to accept hits.
+11. You must wait 30 minutes between accepting hits ON THE SAME PERSON. You must wait five minutes before accepting another hit. 
+12. You may not ask/tell other players to place hits on specific people or groups.
+13. You may not deny your services to individual players, but you may deny your services for a valid RP reason.
+14. It is inexcusable to forget the name and reason of who placed the hit you took out. If you "forget" you will receive a warning for "Random Deathmatch | Fail RP as a Hitman"
+15. You may base with other criminal classes.
+16. In order to accept a hit on a player, there must be a valid RP reason. This reason must have a legitimate RP value. 
+
+
+X. War Medic Rules
+1. You may only assist in raids that your employer is participating in. If your employer dies, you may not continue raiding.
+2. You may only assist your employer with mugging. If your employer dies, you cannot continue with the mugging.
+3. You may only assist your employer with stealing. If your employer dies, you cannot continue to steal.
+4. You may not sell stolen items. You can accept stolen items for your employer if his job allows him to accept stolen items.
+5. You may only assist in carjacks that your employer is participating in. If your employer dies, you may not continue the carjack.
+6. You may place hits.
+7. You may assist your employer with kidnapping. If your employer dies, you cannot continue with the kidnapping.
+8. You may not betray your employer.
+9. You may only base with your boss, not alone.
+10. You must to do "/job [Boss's Name] War Medic" if you have been hired to protect someone's base, shop, or possessions.
+11. The War Medic is NOT a Government Class, but can be hired by government classes.
+
+
+ Custom Classes.png 
+
+
+
+I. Scavenger
+1. You may participate in and lead raids.
+2. You may mug.
+3. You may steal.
+4. You may sell/accept stolen items.
+5. You may kidnap other players.
+6. You may carjack.
+7. You may base with any criminal class.
+8. You may not place hits.
+9. You may build a base and own "real doors", or alternatively you can build a campsite/shack. This campsite/shack is a restricted to a single story; you may have minor prop climb.
+10. You may not build your campsite/shack in front of someone's entrance in a way that it blocks the way in.
+11. You may place a "doomsday" sign in a public area warning citizens of Aurora of the upcoming nuclear apocalypse.
+12. If the owner of a base asks you to remove your props or doomsday sign from the exterior of his/her base you must comply. 
+13. You may only have money printers situated inside of a base. You may not have them in your campsite/shack.
+14. You may only have fading doors situated inside of a base. You may not have them in your campsite/shack.
+
+
+II. Secret Agent
+1. You may participate in Police Raids in order to arrest criminals or seize illegal entities.
+2. You may not mug.
+3. You may build only publicly, in front of tunnels, to create checkpoint. Checkpoints may not have a fading door and there must always be a clear passage through the checkpoint. If there is a Mayor, the checkpoint must be sanctioned by him.
+4. You may not steal, but you can confiscate illegal items.
+5. You may accept stolen items to return them to the rightful owner.
+6. You may not kidnap other players.
+7. You may ignore any laws that forbid weapons of any kind set forth by the mayor. You still cannot purchase BMD items, but you may still use them.
+8. You must have a valid RP reason to weapon check a player.
+9. You must inform players of weapon checks at checkpoints and government facilities with a sign.
+10. You must have a valid RP reason to arrest a player.
+11. You must have a valid reason for issuing a search or arrest warrant.
+12. You may not rush a player with the handcuffs while they are shooting at you.
+13. You may not kill Gang Members on sight unless both sides have agreed to War. (See War)
+14. You may arrest players who are in possession of weapons sold by the Black Market Dealer.
+15. If the mayor gives you an order you must carry out those orders to the best of your ability. If you choose to ignore these orders you can be demoted if the mayor chooses to have you removed from your position. 
+16. The Secret Agent works outside the normal confines of the government and only takes orders from the mayor and his bodyguards. 
+17. 18. III. Joker
+1. You may participate in and lead raids.
+2. You may mug.
+3. You may steal.
+4. You may sell/accept stolen items.
+5. You may kidnap other players.
+6. You may perform an act of terror. You may only use up to ONE explosive during an act of terror. 
+7. You can only commit acts of terror against the government. Meaning you can only "attack" the: Police station, The Bank, or check points created by CP. 
+8. You must use "@" chat to declare your terror, and /advert to declare your grenade.  When committing an act of terror on the government it is okay to have civilian casualties as you attempt to kill at least one CP. However if you are a repeat offender of not killing any CP during an act of terror you can be warned depending on the severity of the offence.
+
+
+IV. Kestrel
+1. You may participate in and lead raids.
+2. You may mug.
+3. You may steal.
+4. You may sell/accept stolen items.
+5. You may kidnap other players.
+6. You may base with other criminal classes. 
+V. Jacket
+1. You may participate in and lead raids.
+2. You may mug.
+3. You may steal.
+4. You may sell/accept stolen items.
+5. You may kidnap other players.
+6. You may base with other criminal classes. 
+VI. Ghost Hunter
+1. You may participate in and lead raids.
+2. You may mug.
+3. You may steal.
+4. You may sell/accept stolen items.
+5. You may kidnap other players.
+6. You may base with other criminal classes.
+VII. Terminator
+If the terminator does not have a hit:
+1. You may participate in and lead raids.
+2. You may mug.
+3. You may steal.
+4. You may sell/accept stolen items.
+5. You may kidnap other players.
+If the terminator does have a hit:
+1. You may only participate in raids if you know your target is inside the base.
+2. You may not mug.
+3. You may not steal.
+4. You may not sell/accept stolen items.
+5. You may not kidnap other players.
+6. You may only kill people you have been paid to kill, except when defending yourself or your group.
+7. You may not accept hits on Hobos.
+8. You may not trade hits with other Hitmen or similar jobs.
+9. You must have a VALID RP reason to accept hits.
+10. You may not ask/tell other players to place hits on specific people or groups.
+11. You may not deny your services to individual players, but you may deny your services for a valid RP reason.
+12. It is inexcusable to forget the name and reason of who placed the hit you took out. If you "forget" you will receive a warning for "Random Deathmatch | FailRP as a Hitman"
+VIII. Tony Montana
+If you do not have a hit:
+1. You may participate in and lead raids.
+2. You may mug.
+3. You may steal.
+4. You may sell/accept stolen items.
+5. You may kidnap other players.
+If you do  have a hit:
+1. You may only participate in raids if you know your target is inside the base.
+2. You may not mug.
+3. You may not steal.
+4. You may not sell/accept stolen items.
+5. You may not kidnap other players.
+6. You may only kill people you have been paid to kill, except when defending yourself or your group.
+7. You may not accept hits on Hobos.
+8. You may not trade hits with other Hitmen or similar jobs.
+9. You must have a VALID RP reason to accept hits.
+10. You may not ask/tell other players to place hits on specific people or groups.
+11. You may not deny your services to individual players, but you may deny your services for a valid RP reason.
+12. It is inexcusable to forget the name and reason of who placed the hit you took out. If you "forget" you will receive a warning for "Random Deathmatch | FailRP as a Hitman"
+IX. Special Operations Group (SOG)
+1. You may participate in Police Raids in order to arrest criminals or seize illegal entities.
+2. You may not mug.
+3. You may build only publicly, in front of tunnels, to create checkpoint. Checkpoints may not have a fading door and there must always be a clear passage through the checkpoint. If there is a Commander, the checkpoint must be sanctioned by him.
+4. You are allowed to want people who run through a checkpoint
+5. At any given time there may only be 4 checkpoints allowed.
+6. You may not steal, but you can confiscate illegal items.
+7. You may accept stolen items to return them to the rightful owner.
+8. You may not kidnap other players.
+9. You may ignore any laws that forbid weapons of any kind set forth by the Commander. You still cannot purchase BMD items, but you may still use them.
+10. You must have a valid RP reason to weapon check a player.
+11. You must inform players of weapon checks at checkpoints and government facilities with a sign.
+12. You must have a valid RP reason to arrest a player.
+13. You must have a valid reason for issuing a search or arrest warrant.
+14. You may not rush a player with the handcuffs while they are shooting at you.
+15. You may not kill Gang Members on sight unless both sides have agreed to War. (See War)
+16. You may arrest players who are in possession of weapons sold by the Black Market Dealer
+17. When no mayor is present the CP Chief is the ONLY class in the government allowed to accept wars.
+18. When no mayor is present the CP Chief is allowed to demote any government official under his power if there is a real RP reason.
+19. If the Commander gives you an order you must carry out those orders to the best of your ability. If you choose to ignore these orders you can be demoted if the Commander chooses to have you removed from your position. 
+20. If the SOG Commander choose to a SOG Command base may be created at a separate location away from the PD. A sign must be placed in front of this building declaring it the SOG Command base. The mayor may choose to base at this location. 
+21. You may not allow criminals to base with you, and you may not have any printers in your base that were are not confiscated. 
+22. You do not have power over the Commander
+X. Organ Thief
+1. You may participate in and lead raids.
+2. You must accept money before healing players not in your group/base. 
+3. You may mug.
+4. You may steal.
+5. You may sell stolen goods.
+6. You may kidnap others.
+7. You may defend other Organ Thieves.
+8. You may only base with other criminal classes
+9. You may not base with any other gangs.
+10. The organ thieves are to be considered a gang at all times but may not claim territory, start wars, or make declarations for the gang until an organ thief declares himself the "Organ Thief Boss" 
+11. You may not build in areas only accessible by climbing swep/grab hook.
+XI. Strangers
+1. You may participate in and lead raids.
+2. You may mug.
+3. You may steal.
+4. You may not sell stolen goods, but you can accept them.
+5. You may kidnap other players.
+6. You may participate in Wars. (See War)
+7. You may not kill the other Gang Members or the CP on sight unless both sides have agreed to War. (See War)
+8. When a mob boss is in power all gangsters under the same gang must base with the mob boss. During this time gangsters may not raid, mug, or kidnap without their mob boss present. During this time you may still roam the map, steal cars, and steal loose items.
+9. The Mob Boss of any of the gangs is allowed to demote any of his members if they do not abide by his rules or demands. You MUST listen to your mob boss!
+10. You may not base with players of different gangs.
+XII. Cabal Sisters
+1. You may participate and lead raids.
+2. You may mug.
+3. You may steal.
+4. You may sell/accept stolen items.
+5. You may kidnap other players.
+6. You may carjack.
+7. Cabal Sisters are duo mob bosses. You may territory claim. If the other sister is online, your gang/mafia may claim a second area. 
+8. You may declare war.
+9. You may hire any criminal class, with the exception of hiring a mafia/gangster/CC when their boss is online. 
+10. All other factions are enemies with you. You may not assist, or accept assists from others during raids, except established allies. 
+XIII. Hiroshima Victim
+This class must choose to act as either one of its roles and may not actively switch between the two roles mid role play. Meaning if you choose to act as a hobo, you are a hobo. If you choose to act a thief, you are a thief.
+ Hobo Rules
+1. You may not participate in raids.
+2. You may not mug.
+3. You may steal.
+4. You may not sell stolen items but you can accept stolen items.
+5. You may not kidnap other players.
+6. You may not own any "real doors" or fading doors.
+7. You may not build a base, but you can build a hobo-shack. This shack, throne, house, etc can be two stories; you may do minor prop climb on this shack.
+8. You may build any creative / fun structure with any amount of prop climbing as long as it does not hurt the overall RP experience. You may also choose to charge for access.
+9. You may build gambling contraptions and have them accessible to the public. 
+10. You may not build your shack in front of someone's entrance in a way that it blocks the way in.
+11. If the owner of a base asks you to remove your props from the exterior of his/her base you must comply. [Loopholes will get you banned]
+12. You may not own a weapon larger than a handgun.
+13. You may not own money printers.
+14. Do not spam the zombie noises.
+15. Do not spam bugbait.
+16. You may not carjack.
+17. You are allowed to play music through your mic. However, if someone tells you to stop playing music you may choose to either move locations or to actually stop playing music.
+18. Hobos may not place hits.
+Thief rules
+1. You may participate in and lead raids.
+2. You may mug.
+3. You may steal.
+4. You may sell/accept stolen items.
+5. You may kidnap other players.
+XIV. Ghost Hunter
+1. You may participate in and lead raids.
+2. You may mug.
+3. You may steal.
+4. You may sell/accept stolen items.
+5. You may kidnap other players.
+XV. Wolf of Wallstreet
+1. You may participate in and lead raids.
+2. You may mug.
+3. You may steal.
+4. You may sell/accept stolen items.
+5. You may kidnap other players.
+XVI. Waffen
+1. You may participate in Police Raids in order to arrest criminals or seize illegal entities.
+2. You may not mug.
+3. You may build only publicly, in front of tunnels, to create checkpoint. Checkpoints may not have a fading door and there must always be a clear passage through the checkpoint. If there is a Mayor, the checkpoint must be sanctioned by him.
+4. You are allowed to want people who run through a checkpoint
+5. At any given time there may only be 4 checkpoints allowed.
+6. You may not steal, but you can confiscate illegal items.
+7. You may accept stolen items to return them to the rightful owner.
+8. You may not kidnap other players.
+9. You may ignore any laws that forbid weapons of any kind set forth by the mayor. You still cannot purchase BMD items, but you may still use them.
+10. You must have a valid RP reason to weapon check a player.
+11. You must inform players of weapon checks at checkpoints and government facilities with a sign.
+12. You must have a valid RP reason to arrest a player.
+13. You must have a valid reason for issuing a search or arrest warrant.
+14. You may not rush a player with the handcuffs while they are shooting at you.
+15. You may not kill Gang Members on sight unless both sides have agreed to War. (See War)
+16. You may arrest players who are in possession of weapons sold by the Black Market Dealer
+17. When no mayor is present the CP Chief is the ONLY class in the government allowed to accept wars.
+18. When no mayor is present the CP Chief is allowed to demote any government official under his power if there is a real RP reason.
+19. If the mayor's gives you an order you must carry out those orders to the best of your ability. If you choose to ignore these orders you can be demoted if the mayor chooses to have you removed from your position. 
+XVII. Private Military Contractor (PMC) 
+1. Follows both Guard and Hitman rules. When following through with a hit the PMC must assist his boss in the raid. Otherwise he may not start a raid. 
+2. You may only participate in raids if you know your target is inside the base. You must also have your boss with you leading the raid. If he dies you must leave.
+3. You may not mug. Unless hired to do so.
+4. You may not steal. Unless hired to do so.
+5. You may not sell/accept stolen items. Unless hired to do so.
+6. You may not kidnap other players. Unless hired to so.
+7. You may only kill people you have been paid to kill, except when defending yourself or your group. 
+8. You may not accept hits on Hobos.
+9. You may not trade hits with other Hitmen or similar jobs. 
+10. You must have a VALID RP reason to accept hits.
+11. You may not ask/tell other players to place hits on specific people or groups.
+12. You may not deny your services to individual players, but you may deny your services for a valid RP reason.
+13. It is inexcusable to forget the name and reason of who placed the hit you took out. If you "forget" you will receive a warning for "Random Deathmatch | FailRP as a Hitman"
+XVIII. Anon 
+1. You may participate in and lead raids.
+2. You may mug.
+3. You may steal.
+4. You may sell/accept stolen items.
+5. You may kidnap other players.
+XIX. Mysterious Stranger
+1. You may participate in and lead raids.
+2. You may mug.
+3. You may steal.
+4. You may sell/accept stolen items.
+5. You may kidnap other players.
+XX. Preacher
+1. You may participate in and lead raids.
+2. You may mug.
+3. You may steal.
+4. You may sell/accept stolen items.
+5. You may kidnap other players.
+XXI. X Villains
+1. You may participate in and lead raids.
+2. You may mug.
+3. You may steal.
+4. You may sell/accept stolen items.
+5. You may kidnap other players.
+6. You may defend other X Villains.
+7. You may base with other criminals.
+XXII. Mance Rayder
+1. You may participate in and lead raids.
+2. You may mug.
+3. You may steal.
+4. You may sell/accept stolen items.
+5. You may kidnap other players.
+XXIII. John Wick
+1. You may participate/assist in raids. (You may not lead them).
+2. You may not mug.
+3. You may steal.
+4. You may sell/accept stolen items.
+5. You may not have a shop. You must complete trades in secret.
+6. You may be arrested for selling items
+7. You may not deny your services to individual players, but you can deny your services for a valid RP reason.
+8. You may not scam.
+XXIV. Cassie Cage
+1. You may participate in and lead raids.
+2. You may mug.
+3. You may steal.
+4. You may sell/accept stolen items.
+5. You may kidnap other players.
+XXV. Corvo
+Follows either hitman or guard rules.
+Hitman rules: 
+1. You may only participate in raids if you know your target is inside the base. You may not lead a raid.
+2. You may not mug.
+3. You may not steal.
+4. You may not sell/accept stolen items.
+5. You may only kill people you have been paid to kill, except when defending yourself or your group.
+6. You may not accept hits on Hobos.
+7. You may not trade hits with other Hitmen or similar jobs.
+8. You must have a valid reason to accept hits.
+9. You must wait 20 minutes between accepting hits ON THE SAME PERSON. There is no wait time between hits on different people
+10. You may not ask/tell other players to place hits on specific people or groups.
+11. You may not deny your services to individual players, but you may deny your services for a valid RP reason.
+12. It is inexcusable to forget the name and reason of who placed the hit you took out. If you "forget" you will receive a warning for "Random Deathmatch | Fail RP as a Hitman"
+13. Hit-men and hit-men-related classes are only allowed to base with other Hit-men and hit-men-related classes.
+Guard Rules:
+1. You may only assist in raids that your employer is participating in. If your employer dies, you may not continue raiding.
+2. You may only assist your employer with mugging. If your employer dies, you cannot continue with the mugging.
+3. You may only assist your employer with stealing. If your employer dies, you cannot continue to steal.
+4. You may not sell stolen items. You can accept stolen items for your employer if his job allows him to accept stolen items.
+5. You may not betray your employer.
+6. You may only base with your boss, not alone.
+7. You must to do "/job [Boss's Name] Guard" if you have been hired to protect someone's base, shop, or possessions.
+XXVI. The Forgotten Raiders
+1. You may participate in and lead raids.
+2. You may mug.
+3. You may steal.
+4. You may sell/accept stolen items.
+5. You may kidnap other players.
+6. You may only base with other Forgotten Raiders. 
+XXVII. Enchantress
+1. You may participate/assist in raids. (You may not lead them).
+2. You must accept money before healing players not within your base/group
+3. You may mug.
+4. You may steal.
+5. You may not sell drugs for under base price.
+6. You may kidnap others.
+7. You may accept stolen items.
+8. You may base only with other criminal classes.
+XXVIII. Bulldozer
+1. You must be hired. You can be hired by corrupt police, as well as criminals. 
+2. You may only assist in raids that your employer is participating in. If your employer dies, you may not continue raiding.
+3. You may not mug.
+4. You may only assist your employer with stealing. If your employer dies, you cannot continue to steal.
+5. You may not sell stolen items. 
+6. You may only assist in carjacks that your employer is participating in. If your employer dies, you may not continue the carjack.
+7. You may place hits.
+8. You can not kidnap.
+
+
+
+
+
+
+
+
+
+
+ Staff exp.png 
+ 
+(Section H)
+
+
+* The members of staff are held to higher standard than other players.
+* The members of staff are role models for players.
+* If any members of staff are behaving inappropriately or are being abusive, report them immediately.
+
+
+I. Expectations
+1. Staff are expected to know the rules. Study them well.
+2. Staff are expected to follow the rules and be exemplary players.
+3. Staff are expected to behave appropriately and professionally.
+4. Staff are expected to not abuse their powers in RP situations.
+5. Staff are expected to be respectful and level-headed in all situations.
+6. Staff are expected to keep their personal opinions about others to themselves or out of game.
+7. Staff are expected to give fair judgement to all players, regardless of personal involvement in the situation.
+8. Staff are expected to discipline players fairly and not rush to extreme measures.
+9. Staff are expected to prioritize taking players' sits ASAP. There is no "off-duty."
+10. Staff are expected to enter proper reasons for disciplining players
+11. Staff members are expected to throw up "Administrative Investigation" signs if they are disrupting the overall RP experience and inspecting the integrity of a base or other situation. Players must abide this sign and may NOT act upon any RP reason until the sign has been removed.
+
+
+II. Code of Conduct
+* Staff Image: It's important that staff maintain an air of responsibility and maturity. Chat spamming, admin wars, arguing/trolling/flaming in chat, random jailing, etc. should not occur. As a member of staff, you represent the server and the community, so it is vital that you behave professionally and maturely.
+* Communication: Please, communicate with each other and use the forums. Teamwork is what will keep this server stable. You must actively take part in discussions, especially those in the staff forums, where important issues about the future of the server are discussed. If something important is happening, be sure to spread the word throughout the staff community.
+* Community Activeness: Please try to spend at least 30 minutes a day on the server and on the forums to keep up with the community. It is important that you keep up to date with what's going on and get involved.
+* Forums: Please be responsible on the forums. You are expected to behave in all parts of the community. Do not flame, insult, or belittle users on the forums. Do not delete threads; only lock them. Only delete or hide posts if they're inciting flame wars or are completely irrelevant in an important thread, and do not delete them permanently.
+* Player Assistance: If a player is asking for reasonable assistance that you can provide some or all of, do so. Do not wait until someone else gets on. Help them out. It's part of being a staff member, and helps everyone out.
+
+
+III. Terms of Abuse
+1. The follow situations are considered abusive, unprofessional or otherwise inappropriate behavior for staff and will not be tolerated.
+2. Phys Gunning a player outside of an admin situation.
+3. Using the !add money command for things other than verified refunds.
+4. Using utility commands (god, noclip, cloak) on another player who is not a member of staff.
+5. Using your powers on yourself or any other player in an RP situation.
+6. Setting your job or someone else's job for reasons other than when an admin situation calls for doing so.
+7. Punishing other members of staff. A 'record and report' policy is in effect.
+8. Using teleport or noclip for any reason other than dealing with an admin situation or spectating.
+9. A staff member must stay up to date with the rules at all times. You may be suspended/given a strike if seen unaware of the important rule changes.
+
+
+
+
+
+
+________________
+
+
+
+
+
+
+Spoiler
+Changelog: 1/9/2017
+Raiding Rule Added: If there is no staff online at the moment when you are about to raid, you must call it in advert. Ex: "/ad Raid Started!" "/ad Bank Raid Started!" "/ad PD Raid Started!" "/ad Counter Raid Started!" 
+New banners: Thank you @JewwyChang
+Changelog: 12/30/2016
+Bulldozer rules added.
+Cassie Cage rules added.
+Deathmatch, rule 12: Climb SWEPing a player is considered assault.
+Deathmatch, rule 13: As a Taxi Driver, you must make an attempt to stop for a pedestrian crossing the street.
+FailRP, rule 12: You may not drive on the sidewalk.
+Raiding Rules, rule 23: You may not use lethal grenades while defending.
+Changelog: 12/04/2016
+Deathmatch, rule 11: You must give an advert warning to a player that has smoked/flashed you. If the player continues to spam the grenades, you may either report them or, if there are currently not staff on, kill them.
+Enchantress Custom Class rules were added.
+Changelog: 12/03/2016
+Raiding Rules, rule 21: When you call "Raid Start," you must call it from outside of the base (This includes the Bank and the PD).
+Changelog: 11/27/2016
+Grouping and Basing Rules, rule 10: You may not connect multiple properties together unless the owner of the other building(s) gives consent, and the building looks at least semi-realistic. (Mob Bosses excluded.)
+Grouping and Basing Rules, rule 11: The buildings connected must be next to each other. You may not connect buildings a street apart. You may not connect them by building on the street (Mob Bosses included)
+Changelog: 11/26/2016
+General Rules, rule 27: You may not sell in-game money for real life currency or Steam items.
+Fading Door Rules, rule 8: Elevator entrances are considered "real world doors". There must be at least a two person size box around the door.
+Hobo Rules, rule 16:  You may build a "Suicide Box". However, it must be clearly marked above it so it can be read from all angles.
+Raiding Rules, rule 20: You cannot call "Raid Over" inside a building, you must make an attempt to escape.
+Raiding Rules, rule 22: You cannot wait inside the Armory for 3 people to become CP classes.
+
+
+
+
+Changelog: 10/9/2016
+Kidnapping Rules, rule 16: You may not kidnap with witnesses present, but you may kidnap in public if the area is secluded.
+Kidnapping Rules, rule 17: You may not kidnap a mayor in grace.
+Mugging Rules, rule 15: You may not mug a mayor in grace.
+Changelog: 9/16/2016
+Added rules for: 
+John Wick
+Kobeyashi Takahashi
+Corvo
+The Forgotten Raiders
+Mance Rayder
+Changelog: 9/11/2016
+General Government Job Rules, 13: You may not rush a player with cuffs when they are an immediate threat to you or others. You must kill them. 
+Changelog: 9/11/2016
+Added X Villain rules. 
+Added Utility Merchant rules.
+Added War Medic rules. 
+Changelog: 9/10/2016
+General Server Rules, Section A, rule 13: Clarification on breaking rules to enforce rules.
+General server rules, Section A, rule 16: Clarification on default laws. 
+General server rules, Section A, rule 24: You may not make drugs or use counterfeiting machines in public. You must make/use them in a base, and hide them from general view. 
+General server rules, Section B, rule 1: Do not spam any form of chat. This includes "@" chat.  
+General server rules, Section B, rule 6: Advertising illegal activities EXCLUDING MUGGINGS AND KIDNAPPINGS gives the CP and SWAT permission to issue a warrant for your arrest.  
+General server rules, Section B, rule 7: You must use /advert to indicated the start of a mugging, or a kidnapping. YOU CANNOT BE WANTED FOR MAKING THESE ADVERTS.           Ex: "/advert MUGGING! Drop 5k now or you will pay in blood!" "/advert KIDNAPPING! You are bound and gagged! Come with me!"  
+General server rules, Section B, rules 8, 9 and 10: Clarification to existing rules. 
+Building Rules, rule 1: Do not trap other players in bases, or prop builds.  
+Building Rules, rule 6: You may not build any false entrances into your base. 
+Building Rules, rule 8: Raiders must have enough space for two players to move and raise their weapons.  
+Building Rules, rule 9: Clarification on awkward entrances for bases. 
+Building Rules, rule 11: Clarification on fading door spacing. 
+Building Rules, rule 15: Meat tunnel rules. 
+Building Rules, rule 16: Tunnel rules. 
+Second Floor Rules, rules 1-4: Clarification to existing rules.
+Second Floor Rules, rule 5: You may build props and have fading doors on WORLD second floors. You may not use staircases and overhangs to give you an advantage over raiders. This includes shooting at raiders from a ledge, upper staircase, or overhang.
+Fading Door Rules, rule 5: Fading door spacing.
+Fading Door Rules, rule 8: Fading door material/color rules. 
+Camera Rules, rule 5: One way camera rules. 
+Camera Rules, rule 6: Freeshooting camera rules.
+Grouping and Basing Rules, rule 14:  Clarification to existing rule. 
+Raiding Rules, rule 8: You may not raid bait. This includes using chat as well as placing provoking text screens on your base encouraging players to raid you. 
+Raiding Rules, rule 13: You must wait 15 minutes before raiding the same base. 
+Raiding Rules, rule 14: You must wait 3 minutes before raiding any other base. 
+Raiding Rules, rule 18: Government classes are the only class exempt from the 3 minute timer, however the 15 minute timer stays in place. 
+Mugging Rules, rule 8: When mugging, you must give players 15 seconds to comply with your terms. You may be killed if you fail to pay within this time frame. 
+Mugging Rules, rule 14: You may resist a mugging if you are currently holding a weapon. If you are not, you may only resist using a pistol. 
+Pickpocketing Rules, rule 4: You or your group may not attack or kill a player you or your group recently attempted to pickpocket, even if you are attacked in retaliation. Party members are not allowed to defend you from these retaliation attacks. This is an act of stealth, if you are caught, your only option is to run.  
+PD&Bank Vault Rules, rule 7:  By default, the lobby of the PD is public. Going beyond the stairs, and through any doors inside the lobby of the PD is AOS by default. The mayor may make a law that makes the PD 100% private, in which case the lobby becomes AOS.  
+Deathmatch Rules, rule 3: You or your group may kill players who refuse to leave you or your group alone after being warned three times  to go away. You must give the player at least 15 seconds to comply. These warnings must use /advert so there is a record of the warnings.  
+Deathmatch Rules, rule 4: You or your group may not kill players even if they threaten you or your group's lives. You and your group must wait before they attack you or your group before defending your group or yourself. This does not apply to a criminal raid, or if a firearm is pulled out during a police chase. 
+Deathmatch Rules, rule 10: Holding a weapon out does not count as a valid reason to KOS a player, unless the player is attacking you. 
+Metagaming Rules, rule 5: You may not use the information from a warrant that pops up on your screen as an indication of corruption. Only the mayor can use this information as indication of corruption. 
+Metagaming Rules, rule 6: It is metagaming to use the kill log in the top right of your screen to know who killed someone.
+Propminge Rules, rule 4: Do not fly players around. 
+Propminge Rules, rule 5: Do not hoverboard players. 
+Propminge Rules, rule 6: Using precision alignment tool to create teleporters or to gain access to areas that you wouldn't normally be able to access is strictly prohibited. 
+FailRP Rules, rule 10: You must have a valid RP reason to use your weapons. Do not shoot randomly or smash windows, cameras, or scanners without a valid RP reason. This includes your fists. 
+Hobo rule 13: You may be killed if you mic spam after a player has warned you to stop in advert chat three times to stop spamming. They must give you at least fifteen seconds to comply. 
+Medic Rule 1: You may NOT directly assist in raids. Meaning you may only stay back and heal. You will be considered a member of the raiding party, and can be arrested or killed. 
+Medic Rule 8: You may NOT own any weapon larger than a pistol.
+General Government Rules: Changes to corruption guidelines. 
+General Government Rules, rule 12: You must always attempt to arrest a non-life threatening criminal before using lethal force. This includes during a police raid.(AOS over KOS)
+General Government Rules, rule 14: Tazer rules.
+General Government Rules, rule 20: Corrupt raid rules.
+General Government Rules, rule 21: Second entrance rules.
+General Government Rules, rule 22: Weapon check rules. 
+General Government Rules, rule 23: Arrest reason guidelines. 
+General Government Rules, rule 24: Adverted resisting arrest warning rules. 
+Mayor Rules, rule 14:  As a mayor, you may not make anyone above the law, even if you are corrupt. 
+Mayor Rules, rule 15: As a mayor, at least one of your law boards must be placed above the PD entrance. It must be clearly visible, and hung so that it can be properly read (not upside down, sideways, or backwards).
+Added professor rules. 
+Added PI rules.
+Added mercenary rules.
+Added War Veteran rules.
+Added rules for custom classes. 
+
+
+Changelog: 9/5/2016
+Kidnapping rules section under "Sever Activity Rules" readded coinciding with the readdition of cuffs/restraints.
+
+
+Changelog: 3/6/2016
+CP Rule #19 - CP Officers may set up a police line around bases that are being raided and/or about to be raided only the concrete_barrier001a prop is to be used for this and it may only be placed on streets and/or sidewalks and may only be used as cover.
+Prop Properties #7 - You may not use the Solid Black color on props.
+General Server Rule #26 - Only medics may base inside of the hospital.
+Hitman Rule #10 - You must wait 30 minutes between accepting hits ON THE SAME PERSON. There is no wait time between hits on different people.
+
+
+Changelog: 2/13/16 + 3/31/2016
+Hit Reasons:
+ VI. Placing Hits Rules
+1. You must have a reason to place a hit on someone. (Not as specific as a RP reason)
+2. You must wait 10 minutes between accepting hits and 30 minutes between hits on the same player.
+-No collided props
+General Server Rules
+    2.Use !report and describe what happened to call an admin. Do not submit false or spam reports or you will be warned.
+  14. Clarified policy for scamming on AuroraEN.
+   23. Propclimb is not allowed at all unless you are a hobo.
+CI. Building rules
+       9.Raiders must have enough space to move and raise their weapons. (Split rule into 2 and added more specifics)
+       15. Your base should not force raiders into  awkward positions in order to break in (I.E  "Meat" tunnels)
+VIII. Prop Properties (Visibility, Collision, Materialization, etc)
+1. Do not use or create invisible props.
+2. You may never use no-collided props unless in an AFK Box.
+3. AFK Boxes are small player sized no collided props used to prevent Pickpocketing in Bases while AFK. You may never use them as a defense during a raid.
+V. Pickpocketing Rules
+   1. You may NOT pickpocket hobos.
+VI. Self-Supply
+   3. You may only Self Supply when there are no merchants online.
+I. Hobo Rules
+   7. You may build small shacks to live in. (You may only have minor prop climb. It's up to the discretion staff member what "Minor" means.)
+    16. You may not drive a car.
+Citizen Sub Section
+   Fight Club Manager
+ 9. Fight Club owners may hire guards and medics to assist in running the establishment. Normal class rules still apply. (Moved From General Rules)  
+III. Musician Rules
+   12. You may not have a weapon larger than a pistol.
+VI. Medic Rules
+   1. You may NOT directly assist in raids. Meaning you may only stay back and heal.
+  10. You may NOT own any weapon larger than a SMG.
+V. Auto Mechanic Rules
+   8. You may NOT own any weapon larger than a SMG.  
+VII. Radio Broadcaster Rules
+   8. You may NOT own any weapon larger than a SMG.  
+IV. Mayor Rules
+   1. You may not participate in raids nor may you accompany the CP during raids.
+II. Thug Rules
+   5. You may not kidnap. You may only assist in kidnaps.
+   7. You may place hits.
+XIII Misc Rules
+4.You can hop into an unlocked car and steal it only if you are a criminal class.
+5.You may only break into a car if you are a criminal class. 
+
+
+IX Wiremod rules
+Lined out pending decision. (Removed as of December)
+
+
+Changelog: 4/6/16
+CI. Building rules
+Changelog: 4/13/16
+Hobo: You may not build in the parking lot of the PD
+General rule: You may no longer kill players for disrespect.
+(Added extra examples so that there is less confusion.)
+
+
+Changelog: 8/25/16
+Many rules were reworked to work well with the new map and with issues that were not addressed previously by the rules.
+It is strongly recommended that you review the entirety of the rules as it is your responsibility. Ignorance is not an excuse.
